@@ -9,6 +9,27 @@
 - 📲 Mobile developer
 <br>
 
+## Mis *Proyectos*
+<table>
+<tr>
+<td>
+<h3 align="center">Proyecto Pokedex - Platzi</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/NIMP3/PokeDex" target="_blank"><img src="https://i.imgur.com/sYAk1tp.png" width="400" alt="Pokedex"></a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/NIMP3/PokeDex" target="_blank"><img src="https://i.imgur.com/k5XoTrm.png" width="400" alt="Pokedex"></a>
+      </td>
+    </tr>
+  </table>
+<p>Proyecto desarrollo en los cursos de <strong>Platzi</strong> - Ruta <strong>Desarrollo de Apps Multiplataforma</strong> - Cursos <strong>Curso de Introducción a React Native</strong> | <strong>Curso Práctico de React Native: Manejo de Listas y Consumo de APIs</strong> | <strong>Curso Práctico de React Native: Formularios, Almacenamiento y Deploy</strong> </p>
+</div>
+</table>                                                                                 
+<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
