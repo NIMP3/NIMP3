@@ -34,6 +34,23 @@
 </div>
 <br>
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Proyect Gemini App</h3>
+<div align="center">
+<a href="https://github.com/NIMP3/GeminiApp" target="_blank"><img src="https://i.imgur.com/4oAHIvw.png" width="400" alt="GeminiApp"></a>
+<br>
+<p>Proyecto desarrollado para realizar pruebas con <strong>Gemini AI</strong> - Curso <strong>Curso de Prompt Engineering con ChatGPT</strong> - Implementar <strong>Gemini Nano</strong> - Explorar diferentes ideas para el uso de AI</p>
+</div>                                                                                    
+</td>
+
+<td width="50%" />
+                                                          
+</table>                                                                                 
+</div>
+<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
