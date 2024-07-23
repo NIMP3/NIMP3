@@ -45,7 +45,14 @@
 </div>                                                                                    
 </td>
 
-<td width="50%" />
+<td width="50%">
+<h3 align="center">Kotlin Multiplatform Test Project</h3>
+<div align="center">
+<a href="https://github.com/NIMP3/KotlinProject" target="_blank"><img src="https://i.imgur.com/XrMjvHm.png" width="400" alt="KmpApp"></a>
+<br>
+<p>Proyecto desarrollado para visualizar todos los conocimientos adquiridos de <strong>Kotlin Multiplatform</strong> - Curso <strong>Kotlin Multiplataforma: Curso Intensivo para Android y iOS</strong> </p>
+</div>                                                                                    
+</td>
                                                           
 </table>                                                                                 
 </div>
