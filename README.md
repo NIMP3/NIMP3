@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">YovanyDev</a> 🚀</h1>
 </div>
-<img src="https://i.imgur.com/531SUIx.png">
+<img src="https://i.imgur.com/heHY0cI.png"</img>
 
 ## Sobre mi
 
