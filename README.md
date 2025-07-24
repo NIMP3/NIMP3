@@ -5,6 +5,7 @@
 
 ## Sobre mi
 
+- 🤓 Edwin Yovany Orbes Villacorte 👨🏽‍💻
 - ⭐ Github Star ⭐ 
 - 📲 Mobile developer
 <br>
